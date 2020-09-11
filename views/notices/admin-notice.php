@@ -1,0 +1,1 @@
+<div class="notice notice-warning is-dismissible"><p><?php echo $message ?? __( 'No Message Provided.', 'elpackinator' );?></p></div>
